@@ -1,0 +1,9 @@
+{
+  "name": "movieapp-backend-ts",
+  "version": "1.0.0",
+  "description": "Backend for Movies App",
+  "main": "src/index.ts",
+  "repository": "https://github.com/nirmal1064/movie-backend-ts",
+  "author": "Nirmal Kumar",
+  "license": "MIT"
+}
